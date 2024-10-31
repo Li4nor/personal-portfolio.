@@ -117,7 +117,7 @@ export const Resume = () => {
         <button className="cb-btn">
           <a
             target="_blank"
-            href="public\resume.pdf"
+            href="/resume.pdf"
             className="download"
             style={{ color: 'white', fontWeight: '500' }}
           >
